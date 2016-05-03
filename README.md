@@ -1,10 +1,11 @@
 # Vue.js / PHP / Bootstrap boilerplate
 
 ## Includes
-> Vue.js
-> Bootstrap
-> SASS
-> Command to run default Mac's PHP server
+- Vue.js
+- jQuery
+- Bootstrap
+- SASS
+- Command to run default Mac's PHP server
 
 ## Build Setup
 
