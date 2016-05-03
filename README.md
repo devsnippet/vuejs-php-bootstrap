@@ -19,3 +19,9 @@ npm run dev
 # Build for production with minification
 npm run build
 ```
+
+# Notes
+
+- The SASS can be found in `src/sass/`.
+- The JS can be found in `src/js/`.
+- Do not edit js or css in `assets`.
